@@ -1,0 +1,13 @@
+{
+  "name": "api-attractions",
+  "version": "1.0.0",
+  "description": "API for attractions project",
+  "main": "api/attractions.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/attractions.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.9.7"
+  }
+}
